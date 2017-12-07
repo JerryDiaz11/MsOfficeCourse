@@ -14,4 +14,6 @@
 1. Conditional Formatting
 1. Format Painter
 1. How to find the right chart, and best practices
+1. Data Validation
+1. Border Control: Shortcuts for outlining your data table
 

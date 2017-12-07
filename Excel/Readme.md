@@ -7,7 +7,8 @@
 1. Handling errors: IFERROR
 1. Using conditionals: IF, NOT, AND, OR
 1. Working with text: LEFT, RIGHT, MID, LEN, and TRIM 
-1. Explore and slice data: PIVOT TABLES and HISTOGRAM
+1. Explore and slice data: PIVOT TABLES
+1. Creating a HISTOGRAM
 1. Reducing data based on conditions: COUNTIF, and SUMIF
 1. Staying organized with NAMED RANGES
 1. Successful Printing

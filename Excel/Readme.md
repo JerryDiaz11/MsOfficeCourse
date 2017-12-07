@@ -6,7 +6,7 @@
 1. Finding values in a table: VLOOKUP and HLOOKUP, INDEX and MATCH
 1. Handling errors: IFERROR
 1. Using conditionals: IF, NOT, AND, OR
-1. Working with text: LEFT, RIGHT, MID, LEN, and TRIM 
+1. Working with text: LEFT, RIGHT, MID, LEN, TRIM, UCASE, and PROPER
 1. Explore and slice data: PIVOT TABLES
 1. Creating a HISTOGRAM
 1. Reducing data based on conditions: COUNTIF, and SUMIF
